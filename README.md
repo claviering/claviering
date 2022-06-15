@@ -14,7 +14,7 @@
 ---
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?hide=html&layout=compact&username=claviering" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?hide=html&layout=compact&username=claviering" />
 
 [![claviering' github stats](https://github-readme-stats.vercel.app/api?show_icons=true&username=claviering)](https://github.com/anuraghazra/github-readme-stats)
 
