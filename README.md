@@ -8,6 +8,8 @@
 - Currently learning (English, D3js, Canvas, Golang, Python)
 - I have my own [blog](https://cosmile.today)
 - [Observable](https://observablehq.com/@claviering)
+- [stackblitz](https://stackblitz.com/@claviering)
+- [codepen](https://codepen.io/claviering/pens/)
 - I'm so stupid
 - I feel like to lose weight and find a remote job
 - 🔥 More and more stronger
