@@ -7,6 +7,7 @@
 - A front-End developer (reactjs and vuejs)
 - Currently learning (English, D3js, Canvas, Golang, Python)
 - I have my own [blog](https://cosmile.today)
+- [observablehq](https://observablehq.com/@claviering)
 - I'm so stupid
 - I feel like to lose weight and find a remote job
 - 🔥 More and more stronger
