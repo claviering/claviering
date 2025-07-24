@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](./mona-loading-default.gif)
+<img src="./mona-loading-default.gif" alt="Loading..." style="width: 48px; height: 48px;" />
 
 ## 🔭 About me
 
